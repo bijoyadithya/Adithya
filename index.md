@@ -3,15 +3,14 @@ layout: default
 title: Home
 ---
 
-# Your Name
+# Adithya Bijoy
 
 PhD student, National University of Singapore. Interests: theoretical computer science, complexity theory, approximation and online algorithms.  
 
-- Google Scholar: https://scholar.google.com/your-scholar-id
-- GitHub: https://github.com/username
-- Email: you@nus.edu.sg
+- DBLP: https://dblp.org/pid/358/9149.html
+- Email: e1583382@u.nus.edu
 
 ## Recent work
 
-- Paper A: short one‑line blurb with link.
-- Project B: short one‑line blurb with link.
+- Weighted $k$-server admits an exponentially competitive algorithm : will appear in SODA 2026
+
