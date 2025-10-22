@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Adithya Bijoy
-
+![web-image](website.jpg)
 PhD student, National University of Singapore. Interests: theoretical computer science, complexity theory, approximation and online algorithms.  
 
 - DBLP: https://dblp.org/pid/358/9149.html
