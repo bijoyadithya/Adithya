@@ -1,0 +1,15 @@
+title: Your Name
+description: Research • TCS • Approx/Online Algorithms
+url: https://username.github.io
+theme: jekyll-theme-minimal
+
+# Social links (optional)
+github_username: username
+linkedin: your-linkedin-slug
+
+# Navigation
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about
