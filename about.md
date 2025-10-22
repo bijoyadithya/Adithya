@@ -6,4 +6,4 @@ title: About
 Research focus: complexity theory, approximation algorithms, online algorithms, logic and verification.  
 Outside of research: organizing a skateboarding group at West Coast Park, Singapore.
 
-![web_image](web_image.jpg)
+![web-image](web-image.jpg)
